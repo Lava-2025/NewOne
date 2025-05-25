@@ -1,0 +1,21 @@
+Variable:
+
+Declaration of variable 
+Initialization
+Utilization of variable 
+
+Ex : int x=10;// Here int x; is declaration part 
+assigning value 10 to x is initialization'
+SOP("x value is"+x);
+
+using the declared variable inside program is utilization
+
+SCope of local variables always be inside the body in which has been diclared 
+
+to have a scope of variable in entair program declare
+ variable as global
+ 
+ final keyword is used in order to final the variable value
+ ex double pie =3.147;
+ 
+For local variables its must to be initialized the varable as JVM not be bothered about temparary variable 
